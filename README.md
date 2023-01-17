@@ -8,7 +8,7 @@
 
 <img width="338" alt="image" src="https://user-images.githubusercontent.com/39055744/212836868-0c545ce4-2306-41ba-8520-5a02cd44e0ed.png">
 
-- - An electron microscope image of pollen (pollen.tif), magnified approximately 700 times, is dark and has a low dynamic range. In order to improve average intensity and contrast, histogram equalizer has been used on the image. This will use Matlab Computer Vision Toolbox
+- An electron microscope image of pollen (pollen.tif), magnified approximately 700 times, is dark and has a low dynamic range. In order to improve average intensity and contrast, histogram equalizer has been used on the image. This will use Matlab Computer Vision Toolbox
 
 <img width="353" alt="image" src="https://user-images.githubusercontent.com/39055744/212837304-0c9cd983-9276-4bfe-9241-ef076421f2f5.png">
 
